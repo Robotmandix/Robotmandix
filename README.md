@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Mandix_P
-- 👀 I’m interested in Making money
-- 🌱 I’m currently learning computer science and mathematics 
-- 💞️ I’m looking to collaborate on AI( forex) 
+- 👋 Hi, I’m P
+- 👀 I’m interested in Making money 
 - 📫 How to reach me 0761914267/robotmandix@gmail.com 
 
 <!---
